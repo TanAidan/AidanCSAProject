@@ -22,7 +22,7 @@ public class Lab0b
 		short shortOne = 12;
 		int intOne = 5;
 		long longOne = 123;
-		float floatOne = 12;
+		float floatOne = 12.234f;
 		double doubleOne= 12.3234;
 		char charOne = 'd';
 		boolean booleanOne = true;
